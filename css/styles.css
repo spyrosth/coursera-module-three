@@ -1,0 +1,13 @@
+.page-header {
+color: red;
+}
+
+section {
+padding: 5px;
+margin: 5px;
+background: #b19cd9;	
+}
+
+#nav-list {
+background: lime;
+}
